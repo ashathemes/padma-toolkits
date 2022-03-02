@@ -38,5 +38,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 = 1.0.0 =
 Released version
 
+= 1.0.1 =
+* Fixed esc issues
+
 
 compatible with wordpress 5.9.1
